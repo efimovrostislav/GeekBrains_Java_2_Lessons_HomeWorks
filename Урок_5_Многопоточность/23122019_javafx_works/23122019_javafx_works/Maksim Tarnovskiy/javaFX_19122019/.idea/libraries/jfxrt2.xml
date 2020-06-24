@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jfxrt2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jfxrt.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jfxrt.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../jfxrt.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jfxrt.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../jfxrt.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../jfxrt.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

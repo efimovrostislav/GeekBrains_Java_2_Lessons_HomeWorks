@@ -1,0 +1,39 @@
+#btn {
+    -fx-display: inline-block;
+    -fx-text-decoration: none;
+    -fx-padding: .3em 1em;
+    -fx-border: solid #aaa;
+    -fx-border-radius: 100px;
+    -fx-outline: none;
+    -fx-background: #d6dbbf no-repeat;
+    -fx-background-size: 1px 100%, 1px 100%, auto auto;
+    -fx-overflow: hidden;
+}
+
+#btn: hover{
+    -fx-background: #80d4f5;
+    -fx-border: solid 1px #79acbe;
+    -fx-border-bottom: solid 3px #589cb6;
+    -fx-box-shadow: inset 0 0 0 1px #b2e6f8;
+}
+
+#btn: active {
+    -fx-background: #89d2ee;
+    -fx-background: linear-gradient(#89d2ee, #84cae6);
+    -fx-border: solid 1px #5c8d9f;
+    -fx-box-shadow: inset 0 10px 15px 0 #79b9d2;
+}
+
+#textArea {
+    -fx-border-color: #f1f1f1;
+    -fx-background-color: lightskyblue;
+    -fx-content: "";
+    -fx-position: absolute;
+    -fx-left: 100%;
+    -fx-bottom: .5em;
+    -fx-width: 1.8em;
+    -fx-height: 1.8em;
+    -fx-border-radius: 50%;
+    -fx-background: blue;
+}
+

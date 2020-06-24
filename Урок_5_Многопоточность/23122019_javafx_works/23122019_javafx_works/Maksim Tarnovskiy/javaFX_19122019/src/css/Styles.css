@@ -1,0 +1,16 @@
+/*#btn {
+    -fx-background-image: url("../img/apply.png");
+    -fx-background-size: 20 20;
+    -fx-background-size: 100% 100%;
+    -fx-background-color: transparent;
+}*/
+#btn: hover {
+    /*-fx-background-color: red;*/
+    -fx-text-fill: red;
+}
+#textArea {
+    textArea-background: #e1f9fe
+}
+#textArea .content {
+    -fx-background-color: textArea-background;
+}

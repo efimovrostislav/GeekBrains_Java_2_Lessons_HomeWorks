@@ -1,0 +1,46 @@
+#background {
+    -fx-background-image: url("../img/background_800_600.png");
+}
+
+.button {
+    -fx-font: 12 Georgia; -fx-base: #f0f8ff;
+}
+
+#contactsHeader {
+-fx-font-family: "Arial Black", Gadget, sans-serif;
+-fx-font-size: 14px;
+-fx-letter-spacing: -0.8px;
+-fx-word-spacing: 0.6px;
+-fx-color: #000000;
+-fx-font-weight: normal;
+-fx-text-decoration: none;
+-fx-font-style: normal;
+-fx-font-variant: normal;
+-fx-text-transform: none;
+}
+
+#chatBox {
+-fx-font-family: Georgia, serif;
+-fx-font-size: 14px;
+-fx-letter-spacing: 0px;
+-fx-word-spacing: 2px;
+-fx-color: #000000;
+-fx-font-weight: normal;
+-fx-text-decoration: none;
+-fx-font-style: normal;
+-fx-font-variant: normal;
+-fx-text-transform: none;
+}
+
+#textField {
+-fx-font-family: Georgia, serif;
+-fx-font-size: 14px;
+-fx-letter-spacing: 0px;
+-fx-word-spacing: 2px;
+-fx-color: #000000;
+-fx-font-weight: normal;
+-fx-text-decoration: none;
+-fx-font-style: normal;
+-fx-font-variant: normal;
+-fx-text-transform: none;
+}

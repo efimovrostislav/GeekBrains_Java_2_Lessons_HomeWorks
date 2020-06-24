@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jfxrt1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../jfxrt.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

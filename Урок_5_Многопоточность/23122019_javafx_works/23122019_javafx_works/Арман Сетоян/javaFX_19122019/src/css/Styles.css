@@ -1,0 +1,112 @@
+#btn {
+    /*-fx-background-image: url("../img/apply.png");*/
+    /*-fx-background-size: 20 20;*/
+    /*-fx-background-size: 100% 100%;*/
+    /*-fx-background-color: transparent;*/
+    -fx-background-color:
+            #a6b5c9,
+            linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+            linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-background-radius: 5,5,4;
+    -fx-padding: 7 30 7 30;
+    -fx-text-fill: #242d35;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 12px;
+    -fx-text-fill: white;
+    -fx-background-image: url("../img/fon.jpg");
+}
+
+#textField {
+    -fx-background-color:
+            #a6b5c9,
+            linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+            linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-background-radius: 5,5,4;
+    -fx-padding: 7 30 7 30;
+    -fx-text-fill: #242d35;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 12px;
+    -fx-text-fill: white;
+    -fx-image: url("../img/fon.jpg");
+}
+#textArea{
+    -fx-padding: 200 0 0 0;
+    -fx-font-family: Consolas;
+    -fx-highlight-fill: #00ff00;
+    /*-fx-highlight-text-fill: #000000;*/
+    -fx-text-fill: #00ff00;
+
+
+ }
+/*#textArea2 {*/
+/*    !*-fx-background-color:*!*/
+/*    !*        #a6b5c9,*!*/
+/*    !*        linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),*!*/
+/*    !*        linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);*!*/
+/*    !*-fx-background-insets: 0 0 -1 0,0,1;*!*/
+/*    !*-fx-background-radius: 5,5,4;*!*/
+/*    -fx-padding: 230 200 10 150;*/
+/*    !*-fx-text-fill: #242d35;*!*/
+/*    !*-fx-font-family: "Helvetica";*!*/
+/*    !*-fx-font-size: 12px;*!*/
+/*    !*-fx-text-fill: white;*!*/
+/*    -fx-background-image: url("../img/val.jpg");*/
+/*}*/
+#btn3 {
+    -fx-background-color:
+        #a6b5c9,
+        linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+        linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-background-radius: 5,5,4;
+    /*-fx-padding: 230 200 10 150;*/
+    -fx-text-fill: #242d35;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 12px;
+    /*-fx-text-fill: white;*/
+    -fx-padding: 80 150 170 170;
+    -fx-background-image: url("../img/val.jpg");
+}#btn4 {
+     -fx-background-color: #a6b5c9,
+     linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+     linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+     -fx-background-insets: 0 0 -1 0, 0, 1;
+     -fx-background-radius: 5, 5, 4;
+     /*-fx-padding: 230 200 10 150;*/
+     -fx-text-fill: #242d35;
+     -fx-font-family: "Helvetica";
+     -fx-font-size: 12px;
+     /*-fx-text-fill: white;*/
+     -fx-padding: 200 150 170 170;
+     -fx-background-image: url("../img/mona.jpeg");
+ }
+/*#btn5 {*/
+/*    -fx-background-color:*/
+/*            #a6b5c9,*/
+/*            linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),*/
+/*            linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);*/
+/*    -fx-background-insets: 0 0 -1 0,0,1;*/
+/*    -fx-background-radius: 5,5,4;*/
+/*    !*-fx-padding: 230 200 10 150;*!*/
+/*    -fx-text-fill: #242d35;*/
+/*    -fx-font-family: "Helvetica";*/
+/*    -fx-font-size: 12px;*/
+/*    !*-fx-text-fill: white;*!*/
+/*    -fx-padding: 80 150 170 170;*/
+/*    -fx-background-image: url("../img/pica.jpg");*/
+/*}#btn6 {*/
+/*     -fx-background-color: #a6b5c9,*/
+/*     linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),*/
+/*     linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);*/
+/*     -fx-background-insets: 0 0 -1 0, 0, 1;*/
+/*     -fx-background-radius: 5, 5, 4;*/
+/*     !*-fx-padding: 230 200 10 150;*!*/
+/*     -fx-text-fill: #242d35;*/
+/*     -fx-font-family: "Helvetica";*/
+/*     -fx-font-size: 12px;*/
+/*     !*-fx-text-fill: white;*!*/
+/*     -fx-padding: 200 150 170 170;*/
+/*     -fx-background-image: url("../img/mona.jpeg");*/
+/* }*/
